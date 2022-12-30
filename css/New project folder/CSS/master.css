@@ -1,0 +1,102 @@
+#headerTop{
+  padding-top: 10px;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#headerBottom{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+
+  height: 50px;
+}
+
+nav{
+  margin-top: 5px;
+  width: 400px;
+  height: 60px;
+  left: 20px;
+  position: relative;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+
+}
+
+li {
+ float: left;
+
+}
+
+li a {
+ display: inline-block;
+ font-family: "Times New Roman", Times, serif;
+ font-style: italic;
+ text-align: center;
+ padding: 15px 10px 10px 10px;
+ margin-left: 10px;
+ text-decoration: none;
+ color: black;
+
+}
+
+main{
+  margin: 1.5%;
+  height: 600px;
+}
+
+#leftMain{
+   float:left;
+   width: 67%;
+   height: 600px;
+}
+
+#rightMain{
+  float: right;
+  width: 33%;
+  height: 600px;
+}
+
+#footer{
+  width: 300px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#facebook{
+  margin-top: 10px;
+  margin-right: 15px;
+  float:left;
+  width: 80px;
+  height: 80px;
+  background-image: url("../image/facebook.jpg");
+  background-size: cover;
+}
+
+#twitter{
+  margin-top: 10px;
+  margin-right: 15px;
+  float:left;
+  width: 80px;
+  height: 80px;
+  background-image: url("../image/twitter.png");
+  background-size: cover;
+}
+
+#youtube{
+  margin-top: 10px;
+  float:left;
+  width: 80px;
+  height: 80px;
+  background-image: url("../image/google.png");
+  background-size: cover;
+}
